@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Amazon Clone",
+    "desc": " Prototype of Amazon website using HTML and CSS properties.",
+    "image": "AmazonClone",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kirtan-21.github.io/Amazon-clone/",
+      "code": "https://github.com/kirtan-21/Amazon-clone"
+    }
+  },
+  {
+    "name": "Tic-tac-toe Game",
+    "desc": "A game built with HTML, CSS, and some JavaScript functionalities.",
+    "image": "TicTacToeGame",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kirtan-21.github.io/Tic-Tac-Toe-Game/",
+      "code": "https://github.com/kirtan-21/Tic-Tac-Toe-Game"
+    }
+  },
+  {
+    "name": "Rock Paper Scissors Game",
+    "desc": "The familiar game Rock, Paper, Scissor, a two-player game, between computer and user, is built using Javascript.",
+    "image": "RockPaperScissorsGame",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kirtan-21.github.io/Rock-Paper-Scissors-Game/",
+      "code": "https://github.com/kirtan-21/Rock-Paper-Scissors-Game"
+    }
+  },
+  {
+    "name": "Tech Blog",
+    "desc": "A tech blog responsive website made with the Bootstrap framework.",
+    "image": "TechBlog",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kirtan-21.github.io/Tech-Blog-bootstrap/",
+      "code": "https://github.com/kirtan-21/Tech-Blog-bootstrap"
+    }
+  },
+  {
+    "name": "BuildCon",
+    "desc": "A responsive website is made with HTML, CSS, and the Bootstrap framework.",
+    "image": "BuildCon",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kirtan-21.github.io/BuildCon/",
+      "code": "https://github.com/kirtan-21/BuildCon"
+    }
+  },
+  {
+    "name": "Maven Toys Analysis",
+    "desc": "Multipage report that has Home, Product analysis, Store analysis, and Inventory analysis pages for analysis of the company. Note* : implementation error.",
+    "image": "MavenToys",
+    "category": "android",
+    "links": {
+      "view": "../assets/images/projects/MavenToys.png",
+      "code": "../404.html"
+    }
+  },
+  {
+    "name": "Superstore Analysis",
+    "desc": " Power BI Report uses a Donut chart, Bar chart, map, Slicer, and some Cards for visualization of data in the report. Note* : implementation error.",
+    "image": "SuperStoreReport",
+    "category": "android",
+    "links": {
+      "view": "../assets/images/projects/SuperStoreReport.png",
+      "code": "../404.html"
+    }
+  },
+  {
+    "name": "Telecom Customer Analysis",
+    "desc": "An analysis of Telecom Customer data using Donut Chart, Bar Chart, Slicer, Card and Map representation so data convert in readable formate. Note* : implementation error.",
+    "image": "TelecomCustomerReport",
+    "category": "android",
+    "links": {
+      "view": "../assets/images/projects/TelecomCustomerReport.png",
+      "code": "../404.html"
+    }
+  }
+  
+  
+]
